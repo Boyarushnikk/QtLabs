@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/exit.png</file>
+        <file>icons/minus.png</file>
+        <file>icons/next.png</file>
+        <file>icons/open.png</file>
+        <file>icons/plus.png</file>
+        <file>icons/previous.png</file>
+        <file>icons/rotate.png</file>
+        <file>icons/save.png</file>
+    </qresource>
+</RCC>
